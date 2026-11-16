@@ -113,7 +113,7 @@ h2 {
 .card p { margin: 0 0 8px; }
 .note { color: var(--muted); font-size: 14px; font-style: italic; }
 .badge {
-  display: inline-block; background: var(--accent-soft); color: var(--accent);
+  display: inline-block; align-self: flex-start; background: var(--accent-soft); color: var(--accent);
   font-weight: 700; font-size: 13px; border-radius: 6px; padding: 2px 8px; margin: 0 0 10px;
 }
 .card .links { margin-top: 14px; }
